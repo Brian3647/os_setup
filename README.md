@@ -2,7 +2,7 @@
 
 ## Usage:
 
-````sh
+```sh
 curl -sL https://raw.githubusercontent.com/Brian3647/os_setup/master/auto.sh | sh
 ```
 
