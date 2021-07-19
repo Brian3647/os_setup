@@ -6,6 +6,8 @@ if [ $(whoami) != "root" ]; then
 	sudo echo ''
 fi
 
+echo "Pleasae do not stop the script manually"
+
 bash "$SCRIPT_DIR/utils/update_all.sh"
 bash "$SCRIPT_DIR/tools/install_git.sh"
 bash "$SCRIPT_DIR/tools/install_node.sh"
