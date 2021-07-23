@@ -1,4 +1,4 @@
-# OS Setup - auto install some tools
+# OS Setup - auto install some tools (APT)
 
 ## Usage:
 
